@@ -10,6 +10,10 @@ to maintain its main website and subdomains for chapters. The purpose is to prov
 high-level information about the infra processes. Detailed build steps
 would be found in individual repos.
 
+## Basics
+
+[Basics document](./basics.md)
+
 ## TODO
 - [ ] Create outline for a sphinx doc
 - [ ] Coordinate with PSF Infra 
