@@ -1,5 +1,5 @@
 # project-tech-infra
-Operations and tech infrastructure guide
+**Operations and tech infrastructure guide**
 
 This repo contains an operations guide for PyLadies tech infrastructure.
 
@@ -17,3 +17,7 @@ would be found in individual repos.
 ## TODO
 - [ ] Create outline for a sphinx doc
 - [ ] Coordinate with PSF Infra 
+
+## Inspiration
+
+The [PSF Infra team's guide](https://infra.psf.io/) inspired this effort.
