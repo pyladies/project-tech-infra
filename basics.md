@@ -52,3 +52,5 @@ For example:
 - SSL certs
 - GitHub
 - Netlify
+- GSuite [Password reset process](https://github.com/pyladies/project-admin-logisitics/blob/master/process/password_reset_process.md)
+- Slack
