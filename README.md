@@ -10,6 +10,10 @@ to maintain its main website and subdomains for chapters. The purpose is to prov
 high-level information about the infra processes. Detailed build steps
 would be found in individual repos.
 
+## Project Tech Infra Team
+
+See [PROJECT_TECH_INFRA.md in pyladies/pyladies repo](https://github.com/pyladies/pyladies/PROJECT_TECH_INFRA.md).
+
 ## Basics
 
 [Basics document](./basics.md)
