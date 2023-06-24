@@ -11,5 +11,5 @@ high-level information about the infra processes. Detailed build steps
 would be found in individual repos.
 
 ## TODO
-- [] Create outline for a sphinx doc
-- [] Coordinate with PSF Infra 
+- [ ] Create outline for a sphinx doc
+- [ ] Coordinate with PSF Infra 
