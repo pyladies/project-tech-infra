@@ -12,7 +12,7 @@ would be found in individual repos.
 
 ## Project Tech Infra Team
 
-See [PROJECT_TECH_INFRA.md in pyladies/pyladies repo]([https://github.com/pyladies/pyladies/PROJECT_TECH_INFRA.md](https://github.com/pyladies/pyladies/blob/main/PROJECT_TECH_INFRA.md)).
+See [PROJECT_TECH_INFRA.md in pyladies/pyladies repo](https://github.com/pyladies/pyladies/blob/main/PROJECT_TECH_INFRA.md).
 
 ## Basics
 
